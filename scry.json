@@ -12,7 +12,7 @@
 						"imageLink":""
 					},
 					{
-						"isNative":true,
+						"isNative":false,
 						"title":"",
 						"description":"",
 						"imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/native_ads.png",
@@ -28,7 +28,7 @@
 						"imageLink":""
 					},
 					{
-						"isNative":true,
+						"isNative":false,
 						"title":"",
 						"description":"",
 						"imageResource":"",
@@ -44,7 +44,7 @@
 						"imageLink":""
 					},
 					{
-						"isNative":true,
+						"isNative":false,
 						"title":"",
 						"description":"",
 						"imageResource":"",
@@ -58,6 +58,22 @@
 						"imageResource":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s4.jpg",
 						"imageUrl":"",
 						"imageLink":""
+					},
+					{
+						"isNative":false,
+						"title":"5 - Before You StartMake",
+						"description":"Welcome to the Squid Game.Attention players, the game of squid is an amateur version from amateurs for the same amateurs and fans. The squid game has nothing to do with the official Squid Games!Download the Squid Game to your phone.Complete many dangerous games and challenges.Each new challenge in the squid game is a test of stamina, reaction and speed.A squid game for real players who are not used to losing.The squid game will show who deserves to be the best hereAbout playing squidSquid Game Games1. Red light, green light in the squid game.2. Combs with sugar and honey in the squid game.3. Tug Of War in the Squid game.Six games instructionFirst game: red light, green light.Second game: SUGAR HONEY BiscuitsThird game: tug of warHistoryThe squid game is based on a competition in which the players play squid. This is the rule of the squid gameAbout Metadata: Metadata are the property of their respective owners. This is an unofficial hobbyist application that has nothing to do with the actual squid series.Copyright infringement is not expected and is excluded. Any official request to remove images, logos, names will be honored.",
+						"imageResource":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s4.jpg",
+						"imageUrl":"",
+						"imageLink":""
+					},
+					{
+						"isNative":false,
+						"title":"6 - Before You StartMake",
+						"description":"Welcome to the Squid Game.Attention players, the game of squid is an amateur version from amateurs for the same amateurs and fans. The squid game has nothing to do with the official Squid Games!Download the Squid Game to your phone.Complete many dangerous games and challenges.Each new challenge in the squid game is a test of stamina, reaction and speed.A squid game for real players who are not used to losing.The squid game will show who deserves to be the best hereAbout playing squidSquid Game Games1. Red light, green light in the squid game.2. Combs with sugar and honey in the squid game.3. Tug Of War in the Squid game.Six games instructionFirst game: red light, green light.Second game: SUGAR HONEY BiscuitsThird game: tug of warHistoryThe squid game is based on a competition in which the players play squid. This is the rule of the squid gameAbout Metadata: Metadata are the property of their respective owners. This is an unofficial hobbyist application that has nothing to do with the actual squid series.Copyright infringement is not expected and is excluded. Any official request to remove images, logos, names will be honored.",
+						"imageResource":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s4.jpg",
+						"imageUrl":"",
+						"imageLink":""
 					}
 
 		],
@@ -66,11 +82,11 @@
 	"popAppName": "Free Fire",
 	"popAppImage": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/logo_free_diamond.png",
 	"popAppPackage": "com.dts.freefireth",
-	"popAppIsActive": true,
+	"popAppIsActive": false,
 	
 	"DetailImageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/native_ads.png",
 	"DetailImageLink":"https://www.youtube.com/",
-	"DetailImageisActivated":true
+	"DetailImageisActivated":false
 
 
 
