@@ -12,7 +12,7 @@
 						"imageLink":""
 					},
 					{
-						"isNative":false,
+						"isNative":true,
 						"title":"",
 						"description":"",
 						"imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/native_ads.png",
@@ -28,7 +28,7 @@
 						"imageLink":""
 					},
 					{
-						"isNative":false,
+						"isNative":true,
 						"title":"",
 						"description":"",
 						"imageResource":"",
@@ -44,7 +44,7 @@
 						"imageLink":""
 					},
 					{
-						"isNative":false,
+						"isNative":true,
 						"title":"",
 						"description":"",
 						"imageResource":"",
@@ -59,17 +59,18 @@
 						"imageUrl":"",
 						"imageLink":""
 					}
+
 		],
 	
 	"popAppLink": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
 	"popAppName": "Free Fire",
 	"popAppImage": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/logo_free_diamond.png",
 	"popAppPackage": "com.dts.freefireth",
-	"popAppIsActive": false,
+	"popAppIsActive": true,
 	
 	"DetailImageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/native_ads.png",
 	"DetailImageLink":"https://www.youtube.com/",
-	"DetailImageisActivated":false
+	"DetailImageisActivated":true
 
 
 
