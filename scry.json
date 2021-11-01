@@ -66,11 +66,11 @@
 	"popAppName": "Free Fire",
 	"popAppImage": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/logo_free_diamond.png",
 	"popAppPackage": "com.dts.freefireth",
-	"popAppIsActive": true,
+	"popAppIsActive": false,
 	
 	"DetailImageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/native_ads.png",
 	"DetailImageLink":"https://www.youtube.com/",
-	"DetailImageisActivated":true
+	"DetailImageisActivated":false
 
 
 
