@@ -12,7 +12,7 @@
 						"imageLink":""
 					},
 					{
-						"isNative":true,
+						"isNative":false,
 						"title":"",
 						"description":"",
 						"imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/native_ads.png",
@@ -28,7 +28,7 @@
 						"imageLink":""
 					},
 					{
-						"isNative":true,
+						"isNative":false,
 						"title":"",
 						"description":"",
 						"imageResource":"",
@@ -44,7 +44,7 @@
 						"imageLink":""
 					},
 					{
-						"isNative":true,
+						"isNative":false,
 						"title":"",
 						"description":"",
 						"imageResource":"",
